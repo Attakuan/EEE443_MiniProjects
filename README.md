@@ -25,4 +25,4 @@ This repository is for Neural Networks Mini Projects. Implementation of the proj
 - Unsupervised feature extraction using a sparse auto-encoders. MSE loss function with the addition of Tikhonov (L2) regularization and KL-Divergence to ensure sparsity.
 - Implementations of RNN, GRU and LSTM.
   - [Report](https://github.com/Attakuan/EEE443_MiniProjects/blob/main/EEE443-Project3/Atakan_Topcu_EEE443_Assignment3.pdf)
-  - [Code](https://github.com/Attakuan/EEE443_MiniProjects/blob/main/EEE443-Project3/Atakan_Topcu_21803095_hw_3.py)
+  - [Code](https://github.com/Attakuan/EEE443_MiniProjects/blob/main/EEE443-Project3/Atakan_Topcu_21803095_hw3.py)
