@@ -6,10 +6,8 @@ This repository is for Neural Networks Mini Projects. Implementation of the proj
 # Key Themes of the Projects:
 
 ## __Project 1:__
-
 - Building a neural network to perform a simple logic formula.
 - Building a single layer perceptron to learn the representations of letters in the alphabet.
-
   - [Report](https://github.com/Attakuan/EEE443_MiniProjects/blob/main/EEE443-Project1/Atakan_Topcu_EEE443_Assignment1.pdf)
   - [Code](https://github.com/Attakuan/EEE443_MiniProjects/blob/main/EEE443-Project1/Atakan_Topcu_21803095_hw_1.py)
 
